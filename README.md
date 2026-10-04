@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mohammed 👋
 
-<!--
-**H7modi77/H7modi77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Artificial Intelligence Student 🤖
 
-Here are some ideas to get you started:
+## 🎓 University / Study
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fourth Year
+- [Image Processing](https://github.com/H7modi77/Image-Processing)
+- [ARTI402](https://github.com/H7modi77/ARTI402)
+- [NLP](https://github.com/H7modi77/NLP)
+
+### Third Year
+- [ARTI308](https://github.com/H7modi77/ARTI308)
+
+## ⚽ Personal / Fun
+
+- [TAWHID-FC](https://github.com/H7modi77/TAWHID-FC)
