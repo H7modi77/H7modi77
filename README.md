@@ -43,7 +43,7 @@ This profile contains my academic projects, coursework, and personal projects de
 
 A personal football club website project focused on **team statistics, player information, seasons, media, and club content**.
 
-[View Project →]([https://github.com/H7modi77/TAWHID-FC](https://h7modi77.github.io/TAWHID-FC/)
+[View Project →]([https://github.com/H7modi77/TAWHID-FC](https://h7modi77.github.io/TAWHID-FC/))
 
 ---
 
