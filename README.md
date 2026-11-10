@@ -86,8 +86,8 @@ A website for my football club: **team stats, player profiles, seasons, media, a
 ## 🕒 Recently Updated
 
 <!-- AUTO:RECENT:START -->
-- [**NLP**](https://github.com/H7modi77/NLP) · updated just now
-- [**ARTI402**](https://github.com/H7modi77/ARTI402) · updated 2 hours ago
+- [**NLP**](https://github.com/H7modi77/NLP) · updated 8 hours ago
+- [**ARTI402**](https://github.com/H7modi77/ARTI402) · updated 10 hours ago
 - [**Image Processing**](https://github.com/H7modi77/Image-Processing) · updated 5 days ago
 - [**Algorithm Analysis and Design**](https://github.com/H7modi77/Algorithm-Analysis-and-Design) · updated 1 month ago
 - [**Programming for Ai**](https://github.com/H7modi77/Programming-for-Ai) · updated 1 month ago
