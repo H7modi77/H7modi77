@@ -9,7 +9,7 @@
 <p>
   <img src="https://img.shields.io/badge/Major-Artificial%20Intelligence-2F81F7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Level-Fourth%20Year-8957E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Repos-13-238636?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repos-12-238636?style=for-the-badge" />
 </p>
 
 </div>
@@ -87,10 +87,10 @@ A website for my football club: **team stats, player profiles, seasons, media, a
 
 <!-- AUTO:RECENT:START -->
 - [**NLP**](https://github.com/H7modi77/NLP) · updated just now
-- [**Project NLP**](https://github.com/H7modi77/Project-NLP) · updated just now
 - [**ARTI402**](https://github.com/H7modi77/ARTI402) · updated 2 hours ago
 - [**Image Processing**](https://github.com/H7modi77/Image-Processing) · updated 5 days ago
 - [**Algorithm Analysis and Design**](https://github.com/H7modi77/Algorithm-Analysis-and-Design) · updated 1 month ago
+- [**Programming for Ai**](https://github.com/H7modi77/Programming-for-Ai) · updated 1 month ago
 <!-- AUTO:RECENT:END -->
 
 ---
