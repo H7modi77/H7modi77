@@ -1,72 +1,99 @@
+<div align="center">
+
 # Hi, I'm Mohammed 👋
 
-### Artificial Intelligence Student | AI & Software Development 🤖
+### Artificial Intelligence Student · AI & Software Development 🤖
 
-I’m an Artificial Intelligence student interested in **AI, Machine Learning, Data, and Software Development**.  
-This profile contains my academic projects, coursework, and personal projects developed throughout my university journey.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=520&lines=Machine+Learning+%26+Deep+Learning;Natural+Language+Processing;Computer+Vision+%26+Image+Processing;Building+things+for+the+web" alt="Typing SVG" />
+
+<p>
+  <img src="https://img.shields.io/badge/Major-Artificial%20Intelligence-2F81F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Level-Fourth%20Year-8957E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repos-12-238636?style=for-the-badge" />
+</p>
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+I'm an Artificial Intelligence student interested in **AI, Machine Learning, Data, and Software Development**.
+This profile holds my coursework, labs, and personal projects from my university journey, organized by year.
+
+- 🔭 Currently studying **Deep Learning**, **NLP**, and **Image Processing**
+- 🌱 Learning more about **Transformers** and **Attention**
+- ⚽ Building a website for my football club, **TAWHID FC**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,html,css,js,git,github,vscode&perline=10" />
+</p>
 
 ---
 
 ## 🎓 Academic Projects
 
-### Fourth Year
+### 📘 Fourth Year
 
-| Project | Description |
+| Project | What's inside |
 |---|---|
-| [Image Processing](https://github.com/H7modi77/Image-Processing) | Image processing labs, projects, and implementations |
-| [ARTI402](https://github.com/H7modi77/ARTI402) | Artificial Intelligence coursework and projects |
-| [NLP](https://github.com/H7modi77/NLP) | Natural Language Processing coursework and labs |
+| 🧠 [**ARTI402 — Deep Learning**](https://github.com/H7modi77/ARTI402) | 10 labs: neural networks, RNNs/LSTMs, autoencoders, attention |
+| 💬 [**NLP**](https://github.com/H7modi77/NLP) | 12 labs: text processing up to Transformers (BERT, DistilBERT) |
+| 🖼️ [**Image Processing**](https://github.com/H7modi77/Image-Processing) | 9 labs on image processing techniques |
 
-### Third Year
+### 📗 Third Year
 
-| Project | Description |
+| Project | What's inside |
 |---|---|
-| [Algorithm Analysis & Design](https://github.com/H7modi77/Algorithm-Analysis-and-Design) | Algorithms, complexity analysis, and problem solving |
-| [Programming for AI](https://github.com/H7modi77/Programming-for-Ai) | Programming concepts and applications for AI |
-| [Operating Systems](https://github.com/H7modi77/Operating-Systems) | Operating systems concepts and coursework |
-| [Computer Organization & Architecture](https://github.com/H7modi77/Computer-Organization-and-Arch) | Computer architecture and organization |
-| [ARTI308](https://github.com/H7modi77/ARTI308) | Artificial Intelligence coursework |
+| 🤖 [**ARTI308**](https://github.com/H7modi77/ARTI308) | 10 AI labs (Lab 2 to Lab 11) |
+| 📊 [**Algorithm Analysis & Design**](https://github.com/H7modi77/Algorithm-Analysis-and-Design) | Project proposal, milestones, final report and presentation |
+| 🐍 [**Programming for AI**](https://github.com/H7modi77/Programming-for-Ai) | Group AI project |
+| 💻 [**Operating Systems**](https://github.com/H7modi77/Operating-Systems) | Lab quizzes and coursework |
+| 🔧 [**Computer Organization & Architecture**](https://github.com/H7modi77/Computer-Organization-and-Arch) | Labs 1 to 12 |
 
-### Second Year
+### 📙 Second Year
 
-| Project | Description |
+| Project | What's inside |
 |---|---|
-| [Digital Logic Design](https://github.com/H7modi77/Digital-Logic-Design) | Digital systems, logic design, and circuits |
-| [Database Concepts & Design](https://github.com/H7modi77/Database-Concepts-and-Design) | Database concepts, design, and implementation |
-| [Fundamentals of Communications](https://github.com/H7modi77/fundamentals-of-communications) | Communication systems and fundamental concepts |
+| 🔌 [**Digital Logic Design**](https://github.com/H7modi77/Digital-Logic-Design) | All labs on logic gates and digital circuits |
+| 🗄️ [**Database Concepts & Design**](https://github.com/H7modi77/Database-Concepts-and-Design) | Database design project |
+| 📡 [**Fundamentals of Communications**](https://github.com/H7modi77/fundamentals-of-communications) | Labs and course project |
 
 ---
 
 ## 🚀 Personal Projects
 
-### TAWHID-FC ⚽
+### ⚽ TAWHID FC
 
-A personal football club website project focused on **team statistics, player information, seasons, media, and club content**.
+A website for my football club: **team stats, player profiles, seasons, media, and club news**.
 
-[View Project →]( https://github.com/H7modi77/TAWHID-FC](https://h7modi77.github.io/TAWHID-FC/ )
-
----
-
-## 🛠️ Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Data & Algorithms
-- Software Development
+<p>
+  <a href="https://h7modi77.github.io/TAWHID-FC/"><img src="https://img.shields.io/badge/Live%20Site-Visit-2F81F7?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://github.com/H7modi77/TAWHID-FC"><img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## 📂 Repository Organization
+## 🎯 Areas of Interest
 
-My repositories are organized around my **academic journey, technical development, and personal projects**, allowing each project to document a specific area of my learning and experience.
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-555?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20%26%20Algorithms-555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Software%20Development-555?style=flat-square" />
+</p>
 
 ---
 
 ## 📫 Connect
 
-Feel free to explore my repositories and follow my journey in **Artificial Intelligence & Technology**.
+Feel free to look around my repositories and follow along as I learn more about **AI and technology**.
 
-**GitHub:** [@H7modi77](https://github.com/H7modi77)
+<a href="https://github.com/H7modi77"><img src="https://img.shields.io/badge/GitHub-@H7modi77-181717?style=for-the-badge&logo=github" /></a>
