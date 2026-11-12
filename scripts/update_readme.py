@@ -6,6 +6,8 @@ Touches only:
     (public repos that are not linked anywhere else in the README yet)
   - the block between <!-- AUTO:RECENT:START --> and <!-- AUTO:RECENT:END -->
     (most recently updated repos)
+  - the "N labs" number in each project table row (counted from Lab1, Lab2, ...
+    folders/files in that repo)
 Everything else in the README is left exactly as written.
 """
 import json, os, re, sys, urllib.request
@@ -65,12 +67,52 @@ def strip_blocks(text):
     return re.sub(r"<!-- AUTO:(\w|-)+:START -->.*?<!-- AUTO:(\w|-)+:END -->", "", text, flags=re.S)
 
 
+LAB_RE = re.compile(r"^lab[\s_\-]*0*(\d+)", re.I)
+
+
+def count_labs(paths):
+    """Number of distinct lab numbers found in folder/file names (Lab1, Lab_2, lab 3 ...)."""
+    nums = set()
+    for p in paths:
+        for seg in p.split("/"):
+            m = LAB_RE.match(seg)
+            if m:
+                nums.add(int(m.group(1)))
+    return len(nums)
+
+
+def repo_paths(repo):
+    try:
+        tree = api(f"https://api.github.com/repos/{USER}/{repo['name']}/git/trees/{repo['default_branch']}?recursive=1")
+        return [t["path"] for t in tree.get("tree", [])]
+    except Exception as e:
+        print(f"could not read {repo['name']}: {e}", file=sys.stderr)
+        return []
+
+
+def update_lab_counts(text, repos):
+    """In table rows that link a repo and say 'N labs' / 'N AI labs', set N to the real count."""
+    by_name = {r["name"].lower(): r for r in repos}
+    out = []
+    for line in text.split("\n"):
+        m = re.search(rf"github\.com/{USER}/([\w.\-]+)\)", line, flags=re.I)
+        if line.startswith("|") and m and m.group(1).lower() in by_name and re.search(r"\b\d+ (?:\w+ )?labs\b", line, flags=re.I):
+            n = count_labs(repo_paths(by_name[m.group(1).lower()]))
+            if n:
+                line = re.sub(r"\b\d+( (?:\w+ )?labs\b)", rf"{n}\g<1>", line, count=1, flags=re.I)
+        out.append(line)
+    return "\n".join(out)
+
+
 def main():
     repos = get_repos()
     text = open(README, encoding="utf-8").read()
 
     # 1) repo count badge
     text = re.sub(r"(badge/Repos-)\d+", rf"\g<1>{len(repos)}", text)
+
+    # 1b) lab counts in the project tables
+    text = update_lab_counts(text, repos)
 
     # 2) public repos not mentioned anywhere in the hand-written part
     linked = {m.lower() for m in re.findall(rf"github\.com/{USER}/([\w.\-]+)", strip_blocks(text), flags=re.I)}

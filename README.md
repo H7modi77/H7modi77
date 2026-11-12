@@ -44,7 +44,7 @@ This profile holds my coursework, labs, and personal projects from my university
 | 🧠 [**ARTI402 — Deep Learning**](https://github.com/H7modi77/ARTI402) | 10 labs: neural networks, RNNs/LSTMs, autoencoders, attention |
 | 💬 [**NLP**](https://github.com/H7modi77/NLP) | 12 labs: text processing up to Transformers (BERT, DistilBERT) |
 | 📩 [**Project NLP — SMS Spam Detection**](https://github.com/H7modi77/Project-NLP) | Course project: TF-IDF vs Sentence-BERT for detecting obfuscated SMS spam |
-| 🖼️ [**Image Processing**](https://github.com/H7modi77/Image-Processing) | 9 labs on image processing techniques |
+| 🖼️ [**Image Processing**](https://github.com/H7modi77/Image-Processing) | 10 labs on image processing techniques |
 
 ### 📗 Third Year
 
