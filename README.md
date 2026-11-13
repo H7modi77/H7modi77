@@ -64,7 +64,11 @@ This profile holds my coursework and labs from my university journey, organized 
 | 📡 [**Fundamentals of Communications**](https://github.com/H7modi77/fundamentals-of-communications) | Labs and course project |
 
 <!-- AUTO:NEW-REPOS:START -->
+### 🆕 New Repositories
 
+| Project | What's inside |
+|---|---|
+| [**TAWHID FC**](https://github.com/H7modi77/TAWHID-FC) | twd |
 <!-- AUTO:NEW-REPOS:END -->
 
 ---
@@ -72,11 +76,11 @@ This profile holds my coursework and labs from my university journey, organized 
 ## 🕒 Recently Updated
 
 <!-- AUTO:RECENT:START -->
-- [**Image Processing**](https://github.com/H7modi77/Image-Processing) · updated 19 hours ago
-- [**NLP**](https://github.com/H7modi77/NLP) · updated 2 days ago
+- [**TAWHID FC**](https://github.com/H7modi77/TAWHID-FC) · updated 6 hours ago
+- [**Image Processing**](https://github.com/H7modi77/Image-Processing) · updated 1 day ago
+- [**NLP**](https://github.com/H7modi77/NLP) · updated 3 days ago
 - [**ARTI402**](https://github.com/H7modi77/ARTI402) · updated 3 days ago
 - [**Algorithm Analysis and Design**](https://github.com/H7modi77/Algorithm-Analysis-and-Design) · updated 1 month ago
-- [**Programming for Ai**](https://github.com/H7modi77/Programming-for-Ai) · updated 1 month ago
 <!-- AUTO:RECENT:END -->
 
 ---
