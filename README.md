@@ -19,11 +19,10 @@
 ## 🙋‍♂️ About Me
 
 I'm an Artificial Intelligence student interested in **AI, Machine Learning, Data, and Software Development**.
-This profile holds my coursework, labs, and personal projects from my university journey, organized by year.
+This profile holds my coursework and labs from my university journey, organized by year.
 
 - 🔭 Currently studying **Deep Learning**, **NLP**, and **Image Processing**
 - 🌱 Learning more about **Transformers** and **Attention**
-- ⚽ Building a website for my football club, **TAWHID FC**
 
 ---
 
@@ -67,19 +66,6 @@ This profile holds my coursework, labs, and personal projects from my university
 <!-- AUTO:NEW-REPOS:START -->
 
 <!-- AUTO:NEW-REPOS:END -->
-
----
-
-## 🚀 Personal Projects
-
-### ⚽ TAWHID FC
-
-A website for my football club: **team stats, player profiles, seasons, media, and club news**.
-
-<p>
-  <a href="https://h7modi77.github.io/TAWHID-FC/"><img src="https://img.shields.io/badge/Live%20Site-Visit-2F81F7?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-  <a href="https://github.com/H7modi77/TAWHID-FC"><img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
 ---
 
