@@ -76,10 +76,10 @@ This profile holds my coursework and labs from my university journey, organized 
 ## 🕒 Recently Updated
 
 <!-- AUTO:RECENT:START -->
-- [**TAWHID FC**](https://github.com/H7modi77/TAWHID-FC) · updated 13 hours ago
-- [**Image Processing**](https://github.com/H7modi77/Image-Processing) · updated 1 day ago
-- [**NLP**](https://github.com/H7modi77/NLP) · updated 3 days ago
-- [**ARTI402**](https://github.com/H7modi77/ARTI402) · updated 3 days ago
+- [**TAWHID FC**](https://github.com/H7modi77/TAWHID-FC) · updated 1 day ago
+- [**Image Processing**](https://github.com/H7modi77/Image-Processing) · updated 2 days ago
+- [**NLP**](https://github.com/H7modi77/NLP) · updated 4 days ago
+- [**ARTI402**](https://github.com/H7modi77/ARTI402) · updated 4 days ago
 - [**Algorithm Analysis and Design**](https://github.com/H7modi77/Algorithm-Analysis-and-Design) · updated 1 month ago
 <!-- AUTO:RECENT:END -->
 
