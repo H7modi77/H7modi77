@@ -9,7 +9,7 @@
 <p>
   <img src="https://img.shields.io/badge/Major-Artificial%20Intelligence-1F2A44?style=flat-square" alt="Major" />
   <img src="https://img.shields.io/badge/Level-Fourth%20Year-1F2A44?style=flat-square" alt="Level" />
-  <img src="https://img.shields.io/badge/Repos-13-1F2A44?style=flat-square" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Repos-14-1F2A44?style=flat-square" alt="Repositories" />
   <img src="https://img.shields.io/badge/Location-Eastern%20Province%2C%20KSA-1F2A44?style=flat-square" alt="Location" />
 </p>
 
@@ -93,6 +93,7 @@ This account is the archive of my university coursework, labs and projects, orga
 
 | Course / Project | Scope |
 |:--|:--|
+| [**H7 Smart City**](https://github.com/H7modi77/H7-Smart-City) | AI-powered smart city in the browser: live dashboard + 3D tour. Traffic signal optimisation, ER triage, handwriting recognition, sales forecasting, energy, air-quality anomalies and waste routing. |
 | [**Saudi ANPR**](https://github.com/H7modi77/Saudi-ANPR) | Saudi license plate recognition (Arabic + English) with OpenCV, HOG+SVM and optional YOLO - bilingual cross-check, synthetic data generator, live demo. |
 | [**TAWHID FC**](https://github.com/H7modi77/TAWHID-FC) | twd |
 <!-- AUTO:NEW-REPOS:END -->
@@ -102,11 +103,11 @@ This account is the archive of my university coursework, labs and projects, orga
 ## 05 &nbsp;·&nbsp; Recent Activity
 
 <!-- AUTO:RECENT:START -->
-- [**Saudi ANPR**](https://github.com/H7modi77/Saudi-ANPR) · updated 1 hour ago
+- [**H7 Smart City**](https://github.com/H7modi77/H7-Smart-City) · updated 3 hours ago
+- [**Saudi ANPR**](https://github.com/H7modi77/Saudi-ANPR) · updated 3 hours ago
 - [**TAWHID FC**](https://github.com/H7modi77/TAWHID-FC) · updated 1 day ago
 - [**Image Processing**](https://github.com/H7modi77/Image-Processing) · updated 2 days ago
 - [**NLP**](https://github.com/H7modi77/NLP) · updated 4 days ago
-- [**ARTI402**](https://github.com/H7modi77/ARTI402) · updated 4 days ago
 <!-- AUTO:RECENT:END -->
 
 <br />
