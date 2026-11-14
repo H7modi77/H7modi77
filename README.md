@@ -9,7 +9,7 @@
 <p>
   <img src="https://img.shields.io/badge/Major-Artificial%20Intelligence-1F2A44?style=flat-square" alt="Major" />
   <img src="https://img.shields.io/badge/Level-Fourth%20Year-1F2A44?style=flat-square" alt="Level" />
-  <img src="https://img.shields.io/badge/Repos-12-1F2A44?style=flat-square" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Repos-13-1F2A44?style=flat-square" alt="Repositories" />
   <img src="https://img.shields.io/badge/Location-Eastern%20Province%2C%20KSA-1F2A44?style=flat-square" alt="Location" />
 </p>
 
@@ -93,6 +93,7 @@ This account is the archive of my university coursework, labs and projects, orga
 
 | Course / Project | Scope |
 |:--|:--|
+| [**Saudi ANPR**](https://github.com/H7modi77/Saudi-ANPR) | Saudi license plate recognition (Arabic + English) with OpenCV, HOG+SVM and optional YOLO - bilingual cross-check, synthetic data generator, live demo. |
 | [**TAWHID FC**](https://github.com/H7modi77/TAWHID-FC) | twd |
 <!-- AUTO:NEW-REPOS:END -->
 
@@ -101,11 +102,11 @@ This account is the archive of my university coursework, labs and projects, orga
 ## 05 &nbsp;·&nbsp; Recent Activity
 
 <!-- AUTO:RECENT:START -->
+- [**Saudi ANPR**](https://github.com/H7modi77/Saudi-ANPR) · updated 1 hour ago
 - [**TAWHID FC**](https://github.com/H7modi77/TAWHID-FC) · updated 1 day ago
 - [**Image Processing**](https://github.com/H7modi77/Image-Processing) · updated 2 days ago
 - [**NLP**](https://github.com/H7modi77/NLP) · updated 4 days ago
 - [**ARTI402**](https://github.com/H7modi77/ARTI402) · updated 4 days ago
-- [**Algorithm Analysis and Design**](https://github.com/H7modi77/Algorithm-Analysis-and-Design) · updated 1 month ago
 <!-- AUTO:RECENT:END -->
 
 <br />
