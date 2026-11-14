@@ -118,7 +118,7 @@ def main():
     linked = {m.lower() for m in re.findall(rf"github\.com/{USER}/([\w.\-]+)", strip_blocks(text), flags=re.I)}
     new = sorted([r for r in repos if r["name"].lower() not in linked], key=lambda r: r["created_at"], reverse=True)
     if new:
-        rows = ["### 🆕 New Repositories", "", "| Project | What's inside |", "|---|---|"]
+        rows = ["#### New Repositories", "", "| Course / Project | Scope |", "|:--|:--|"]
         for r in new:
             desc = (r["description"] or "").replace("|", "/") or "-"
             rows.append(f"| [**{pretty(r['name'])}**]({r['html_url']}) | {desc} |")
