@@ -66,7 +66,7 @@ This account is the archive of my university coursework, labs and projects, orga
 | Course / Project | Scope |
 |:--|:--|
 | [**ARTI402 — Deep Learning**](https://github.com/H7modi77/ARTI402) | 10 labs: neural networks, RNNs/LSTMs, autoencoders, attention |
-| [**NLP**](https://github.com/H7modi77/NLP) | 12 labs: text processing up to Transformers (BERT, DistilBERT) |
+| [**NLP**](https://github.com/H7modi77/NLP) | 13 labs: text processing up to Transformers (BERT, DistilBERT) |
 | [**Project NLP — SMS Spam Detection**](https://github.com/H7modi77/Project-NLP) | Course project: TF-IDF vs Sentence-BERT for detecting obfuscated SMS spam |
 | [**Image Processing**](https://github.com/H7modi77/Image-Processing) | 10 labs on image processing techniques |
 
@@ -103,11 +103,11 @@ This account is the archive of my university coursework, labs and projects, orga
 ## 05 &nbsp;·&nbsp; Recent Activity
 
 <!-- AUTO:RECENT:START -->
-- [**H7 Smart City**](https://github.com/H7modi77/H7-Smart-City) · updated 1 day ago
+- [**NLP**](https://github.com/H7modi77/NLP) · updated 1 hour ago
+- [**H7 Smart City**](https://github.com/H7modi77/H7-Smart-City) · updated 2 days ago
 - [**Saudi ANPR**](https://github.com/H7modi77/Saudi-ANPR) · updated 2 days ago
 - [**TAWHID FC**](https://github.com/H7modi77/TAWHID-FC) · updated 3 days ago
 - [**Image Processing**](https://github.com/H7modi77/Image-Processing) · updated 4 days ago
-- [**NLP**](https://github.com/H7modi77/NLP) · updated 6 days ago
 <!-- AUTO:RECENT:END -->
 
 <br />
