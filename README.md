@@ -104,8 +104,8 @@ This account is the archive of my university coursework, labs and projects, orga
 
 <!-- AUTO:RECENT:START -->
 - [**NLP**](https://github.com/H7modi77/NLP) · updated 2 days ago
-- [**H7 Smart City**](https://github.com/H7modi77/H7-Smart-City) · updated 4 days ago
-- [**Saudi ANPR**](https://github.com/H7modi77/Saudi-ANPR) · updated 4 days ago
+- [**H7 Smart City**](https://github.com/H7modi77/H7-Smart-City) · updated 5 days ago
+- [**Saudi ANPR**](https://github.com/H7modi77/Saudi-ANPR) · updated 5 days ago
 - [**TAWHID FC**](https://github.com/H7modi77/TAWHID-FC) · updated 6 days ago
 - [**Image Processing**](https://github.com/H7modi77/Image-Processing) · updated 7 days ago
 <!-- AUTO:RECENT:END -->
