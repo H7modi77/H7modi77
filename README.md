@@ -103,9 +103,9 @@ This account is the archive of my university coursework, labs and projects, orga
 ## 05 &nbsp;·&nbsp; Recent Activity
 
 <!-- AUTO:RECENT:START -->
-- [**Project NLP**](https://github.com/H7modi77/Project-NLP) · updated 7 hours ago
-- [**TAWHID FC**](https://github.com/H7modi77/TAWHID-FC) · updated 7 hours ago
-- [**NLP**](https://github.com/H7modi77/NLP) · updated 4 days ago
+- [**Project NLP**](https://github.com/H7modi77/Project-NLP) · updated 20 hours ago
+- [**TAWHID FC**](https://github.com/H7modi77/TAWHID-FC) · updated 20 hours ago
+- [**NLP**](https://github.com/H7modi77/NLP) · updated 5 days ago
 - [**H7 Smart City**](https://github.com/H7modi77/H7-Smart-City) · updated 7 days ago
 - [**Saudi ANPR**](https://github.com/H7modi77/Saudi-ANPR) · updated 7 days ago
 <!-- AUTO:RECENT:END -->
