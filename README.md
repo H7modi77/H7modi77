@@ -103,7 +103,7 @@ This account is the archive of my university coursework, labs and projects, orga
 ## 05 &nbsp;·&nbsp; Recent Activity
 
 <!-- AUTO:RECENT:START -->
-- [**Project NLP**](https://github.com/H7modi77/Project-NLP) · updated 7 hours ago
+- [**Project NLP**](https://github.com/H7modi77/Project-NLP) · updated 4 hours ago
 - [**NLP**](https://github.com/H7modi77/NLP) · updated 2 days ago
 - [**TAWHID FC**](https://github.com/H7modi77/TAWHID-FC) · updated 2 days ago
 - [**H7 Smart City**](https://github.com/H7modi77/H7-Smart-City) · updated 12 days ago
